@@ -17,7 +17,7 @@ Este é um aplicativo Flutter desenvolvido para comparar os rendimentos de dois 
 
 ## Como usar
 
-[![APP CALC](lib\img\app_calc.png)](https://youtube.com/shorts/bNnGuy9b5fc?feature=share)1
+[![APP CALC](calc\lib\img\app_calc.png)](https://youtube.com/shorts/bNnGuy9b5fc?feature=share)
 
 - (clique na imagem para ser redirecionado ao vídeo demonstrativo)
 
